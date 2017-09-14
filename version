@@ -1,0 +1,4 @@
+2014-12-29
+Merge kernel patch to fix ubifs bug
+2015-02-07
+Kernel support standby suspend and resume

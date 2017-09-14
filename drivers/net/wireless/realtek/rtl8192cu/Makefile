@@ -1,0 +1,1 @@
+obj-$(CONFIG_RTL8192CU) := 8192cu.lo
